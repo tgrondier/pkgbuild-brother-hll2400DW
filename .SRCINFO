@@ -1,0 +1,15 @@
+pkgbase = brother-hll2400dwdn
+	pkgdesc = Brother HLL2400DW CUPS driver
+	pkgver = 4.1.0
+	pkgrel = 1
+	url = http://welcome.solutions.brother.com/bsc/public_s/id/linux/en/index.html
+	arch = i686
+	arch = x86_64
+	license = GPL
+	depends = cups
+	depends = perl
+	source = https://download.brother.com/welcome/dlf105948/hll2400dwpdrv-4.1.0-1.i386.rpm
+	sha256sums = e08a1756abc1aaa4959b6f5259108e2053753322b7710944db34f153e585bf5a
+
+pkgname = brother-hll2400dw
+
